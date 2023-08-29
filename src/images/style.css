@@ -1,3 +1,38 @@
+body{
+    background-color: rgb(196, 163, 226);
+}
+
+
 main{
-    
+    background-color:#ecf1ea;
+    margin: auto;
+    margin-top: 45px;
+    width: 320px;
+    height: 500px;
+    border-radius: 12px;
+    padding: 10px;  
+}
+
+img{
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 300px;
+    height: 280px;
+    border-radius: 12px;
+}
+
+.qr-code{
+    width: 300px;
+    height: 300px;
+}
+.texto-1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.texto-2{
+    text-align: center;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#b6c2af ;
 }
